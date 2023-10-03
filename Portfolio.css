@@ -40,7 +40,7 @@
     border-radius: 12px
 }
 .sidebar {
-	background-color: rgb(240,240,240)/*rgb(20, 20, 20)*/;
+	background-color: gray/*rgb(20, 20, 20)*/;
 	height: 20px;
 	width: var(--sidebar-width);
 	position: fixed;
@@ -49,6 +49,8 @@
 	padding-top: 5px;
 	padding-bottom: 5px;
 	border-radius: 12px*/
+    width: auto;
+    height: auto;
 }
 .sidebar a{
 	text-decoration: none;
