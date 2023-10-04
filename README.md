@@ -5,8 +5,8 @@ I'll probably make several .html files before I am finished, so make sure you cl
 
 # Latest changes:
 
--Created and finished sections of the page
+-Deleted Portfolio.js
 
--Working on the Interests page
+-Finished (probably) the project
 
--Contact Info page finished (mostly)
+-Enjoy! :)
