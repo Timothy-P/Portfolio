@@ -5,10 +5,8 @@ I'll probably make several .html files before I am finished, so make sure you cl
 
 # Latest changes:
 
--Made "Previous works" page
+-Created and finished sections of the page
 
--Worked on the CSS to change the font to something more formal
+-Working on the Interests page
 
--Changes to the "About Me" page to improve what is said
-
--Removed button from home page.
+-Contact Info page finished (mostly)
