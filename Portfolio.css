@@ -25,7 +25,7 @@
     cursor: pointer;
     display: inline-block;
     width: auto;
-    height: 50px;
+    height: auto;
     background-color: #f3722c;
     border-radius: 12px;
     text-align: center;
